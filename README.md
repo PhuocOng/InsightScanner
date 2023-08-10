@@ -2,6 +2,9 @@
 
 **InsightScanner is an innovative mobile application designed to bridge the gap between physical books and digital content. By simply scanning the cover of a book, users can instantly access a summarized version of its content. Built with the power of React Native for the frontend and Flask for the backend, InsightScanner offers a seamless experience for book enthusiasts.**
 
+<img src="https://github.com/PhuocOng/InsightScanner/assets/122703392/83943426-8874-40c1-a600-8e318cbea9d6" alt="InsightScanner Image" width="500" border="2px solid black">
+
+
 **Features 🌟**
 1. Intuitive Camera Interface 📸
 Capture the book cover with ease using our built-in camera interface. Designed with user experience in mind, taking a picture has never been so straightforward.
